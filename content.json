@@ -1,15 +1,27 @@
 {
   "settings": {
-    "brand": { "ar": "منز تك", "en": "Menz Tech" },
-    "tagline": { "ar": "تقنيات الفعاليات والمؤتمرات", "en": "Event & conference technology" },
+    "brand": {
+      "ar": "Menz Tech",
+      "en": "Menz Tech"
+    },
+    "tagline": {
+      "ar": "تقنيات الفعاليات والمؤتمرات",
+      "en": "Event & conference technology"
+    },
     "logo": "",
-    "whatsapp": "",
+    "whatsapp": "07732083400",
     "phone": "",
-    "email": "",
+    "email": "menz.tech.iq@gmail.com",
     "instagram": "menz.tech",
     "facebook": "",
-    "address": { "ar": "بغداد، العراق", "en": "Baghdad, Iraq" },
-    "hours": { "ar": "", "en": "" },
+    "address": {
+      "ar": "بغداد، العراق",
+      "en": "Baghdad, Iraq"
+    },
+    "hours": {
+      "ar": "",
+      "en": ""
+    },
     "mapUrl": "",
     "seoTitle": {
       "ar": "منز تك | تصوير وبث مباشر وشاشات وصوتيات للفعاليات والمؤتمرات في بغداد",
@@ -30,24 +42,57 @@
       "ar": "نتكفّل بالتصوير والبث المباشر والشاشات والصوت، من التجهيز لحد آخر لحظة بالفعالية.",
       "en": "We handle recording, live streaming, screens and sound, from setup to the final minute of your event."
     },
-    "cta1": { "ar": "اطلب خدمتك", "en": "Request a service" },
-    "cta2": { "ar": "شوف خدماتنا", "en": "See our services" },
+    "cta1": {
+      "ar": "اطلب خدمتك",
+      "en": "Request a service"
+    },
+    "cta2": {
+      "ar": "شوف خدماتنا",
+      "en": "See our services"
+    },
     "image": ""
   },
   "eventTypes": {
-    "title": { "ar": "نغطي", "en": "We cover" },
+    "title": {
+      "ar": "نغطي",
+      "en": "We cover"
+    },
     "items": [
-      { "ar": "مؤتمرات", "en": "Conferences" },
-      { "ar": "ندوات", "en": "Seminars" },
-      { "ar": "ورش تدريبية", "en": "Training workshops" },
-      { "ar": "حفلات تخرج", "en": "Graduation ceremonies" },
-      { "ar": "معارض", "en": "Exhibitions" },
-      { "ar": "إطلاق منتجات", "en": "Product launches" },
-      { "ar": "فعاليات شركات", "en": "Corporate events" }
+      {
+        "ar": "مؤتمرات",
+        "en": "Conferences"
+      },
+      {
+        "ar": "ندوات",
+        "en": "Seminars"
+      },
+      {
+        "ar": "ورش تدريبية",
+        "en": "Training workshops"
+      },
+      {
+        "ar": "حفلات تخرج",
+        "en": "Graduation ceremonies"
+      },
+      {
+        "ar": "معارض",
+        "en": "Exhibitions"
+      },
+      {
+        "ar": "إطلاق منتجات",
+        "en": "Product launches"
+      },
+      {
+        "ar": "فعاليات شركات",
+        "en": "Corporate events"
+      }
     ]
   },
   "services": {
-    "title": { "ar": "خدماتنا", "en": "What we do" },
+    "title": {
+      "ar": "خدماتنا",
+      "en": "What we do"
+    },
     "intro": {
       "ar": "تكدر تطلب خدمة وحدة، أو باقة متكاملة لفعاليتك.",
       "en": "Order a single service or a full package for your event."
@@ -55,123 +100,222 @@
     "items": [
       {
         "icon": "record",
-        "title": { "ar": "تصوير الفعاليات", "en": "Event recording" },
+        "title": {
+          "ar": "تصوير الفعاليات",
+          "en": "Event recording"
+        },
         "desc": {
           "ar": "نصوّر فعاليتك بكاميرات احترافية ونسلّمك فيديو جاهز تنشره أو تحتفظ بيه.",
           "en": "We film your event with professional cameras and hand over a finished video to publish or archive."
         },
         "points": [
-          { "ar": "أكثر من كاميرا وزاوية تصوير", "en": "Multiple cameras and angles" },
-          { "ar": "صوت واضح مسجّل من المنصة", "en": "Clean sound recorded from the stage" },
-          { "ar": "مونتاج وتسليم بالوقت المتفق عليه", "en": "Editing and delivery on the agreed date" }
+          {
+            "ar": "أكثر من كاميرا وزاوية تصوير",
+            "en": "Multiple cameras and angles"
+          },
+          {
+            "ar": "صوت واضح مسجّل من المنصة",
+            "en": "Clean sound recorded from the stage"
+          },
+          {
+            "ar": "مونتاج وتسليم بالوقت المتفق عليه",
+            "en": "Editing and delivery on the agreed date"
+          }
         ]
       },
       {
         "icon": "live",
-        "title": { "ar": "البث المباشر", "en": "Live streaming" },
+        "title": {
+          "ar": "البث المباشر",
+          "en": "Live streaming"
+        },
         "desc": {
           "ar": "ننقل فعاليتك مباشرة للجمهور على يوتيوب وفيسبوك وغيرها، بدون تقطيع.",
           "en": "We stream your event live to YouTube, Facebook and more, without drops."
         },
         "points": [
-          { "ar": "بث على أكثر من منصة بنفس الوقت", "en": "Stream to several platforms at once" },
-          { "ar": "فريق يراقب البث طول الفعالية", "en": "A team monitors the stream throughout" },
-          { "ar": "فحص الإنترنت قبل ما تبدي الفعالية", "en": "Connection check before the event starts" }
+          {
+            "ar": "بث على أكثر من منصة بنفس الوقت",
+            "en": "Stream to several platforms at once"
+          },
+          {
+            "ar": "فريق يراقب البث طول الفعالية",
+            "en": "A team monitors the stream throughout"
+          },
+          {
+            "ar": "فحص الإنترنت قبل ما تبدي الفعالية",
+            "en": "Connection check before the event starts"
+          }
         ]
       },
       {
         "icon": "screen",
-        "title": { "ar": "الشاشات وعرض المحتوى", "en": "Screens and display" },
+        "title": {
+          "ar": "الشاشات وعرض المحتوى",
+          "en": "Screens and display"
+        },
         "desc": {
           "ar": "شاشات عرض وشاشات LED بالحجم المناسب لقاعتك، لعرض السلايدات والفيديو والبث.",
           "en": "Display and LED screens sized for your hall, for slides, video and the live feed."
         },
         "points": [
-          { "ar": "أحجام مختلفة حسب القاعة", "en": "Different sizes to fit the hall" },
-          { "ar": "عرض العروض التقديمية والفيديو", "en": "Presentations and video playback" },
-          { "ar": "تشغيل وتحكم بالمحتوى طول الفعالية", "en": "Operated and controlled throughout the event" }
+          {
+            "ar": "أحجام مختلفة حسب القاعة",
+            "en": "Different sizes to fit the hall"
+          },
+          {
+            "ar": "عرض العروض التقديمية والفيديو",
+            "en": "Presentations and video playback"
+          },
+          {
+            "ar": "تشغيل وتحكم بالمحتوى طول الفعالية",
+            "en": "Operated and controlled throughout the event"
+          }
         ]
       },
       {
         "icon": "audio",
-        "title": { "ar": "الصوتيات", "en": "Sound" },
+        "title": {
+          "ar": "الصوتيات",
+          "en": "Sound"
+        },
         "desc": {
           "ar": "صوت واضح لكل شخص بالقاعة، من المايك لحد السماعات.",
           "en": "Clear sound for everyone in the room, from microphone to speakers."
         },
         "points": [
-          { "ar": "مايكات يدوية ولاقطة", "en": "Handheld and lapel microphones" },
-          { "ar": "سماعات ومكسر صوت", "en": "Speakers and a mixing desk" },
-          { "ar": "فني صوت يشتغل وياكم بالموقع", "en": "A sound technician on site" }
+          {
+            "ar": "مايكات يدوية ولاقطة",
+            "en": "Handheld and lapel microphones"
+          },
+          {
+            "ar": "سماعات ومكسر صوت",
+            "en": "Speakers and a mixing desk"
+          },
+          {
+            "ar": "فني صوت يشتغل وياكم بالموقع",
+            "en": "A sound technician on site"
+          }
         ]
       },
       {
         "icon": "robot",
-        "title": { "ar": "تأجير الروبوتات", "en": "Robot rental" },
+        "title": {
+          "ar": "تأجير الروبوتات",
+          "en": "Robot rental"
+        },
         "desc": {
           "ar": "روبوت يستقبل الضيوف ويلفت الانتباه بالمعارض والمؤتمرات وحفلات الإطلاق.",
           "en": "A robot that greets guests and draws attention at exhibitions, conferences and launches."
         },
         "points": [
-          { "ar": "تأجير ليوم أو أكثر", "en": "Rent for a day or more" },
-          { "ar": "تجهيز الروبوت وتشغيله بالموقع", "en": "Set up and operated on site" },
-          { "ar": "مناسب للمعارض وإطلاق المنتجات", "en": "Ideal for exhibitions and product launches" }
+          {
+            "ar": "تأجير ليوم أو أكثر",
+            "en": "Rent for a day or more"
+          },
+          {
+            "ar": "تجهيز الروبوت وتشغيله بالموقع",
+            "en": "Set up and operated on site"
+          },
+          {
+            "ar": "مناسب للمعارض وإطلاق المنتجات",
+            "en": "Ideal for exhibitions and product launches"
+          }
         ]
       },
       {
         "icon": "signage",
-        "title": { "ar": "شاشات العرض الذكية", "en": "Digital signage" },
+        "title": {
+          "ar": "شاشات العرض الذكية",
+          "en": "Digital signage"
+        },
         "desc": {
           "ar": "شاشات إعلانية تشتغل لوحدها، وتغيّر محتواها عن بعد من أي مكان.",
           "en": "Advertising screens that run on their own, with content you update remotely."
         },
         "points": [
-          { "ar": "تحكم بالمحتوى من لوحة وحدة", "en": "Control content from a single dashboard" },
-          { "ar": "جدولة الإعلانات حسب الوقت والشاشة", "en": "Schedule ads by time and screen" },
-          { "ar": "تركيب وتشغيل وصيانة", "en": "Installation, setup and maintenance" }
+          {
+            "ar": "تحكم بالمحتوى من لوحة وحدة",
+            "en": "Control content from a single dashboard"
+          },
+          {
+            "ar": "جدولة الإعلانات حسب الوقت والشاشة",
+            "en": "Schedule ads by time and screen"
+          },
+          {
+            "ar": "تركيب وتشغيل وصيانة",
+            "en": "Installation, setup and maintenance"
+          }
         ]
       },
       {
         "icon": "code",
-        "title": { "ar": "حلول برمجية", "en": "Software solutions" },
+        "title": {
+          "ar": "حلول برمجية",
+          "en": "Software solutions"
+        },
         "desc": {
           "ar": "نبني لك التطبيقات والأنظمة والمواقع اللي يحتاجها شغلك.",
           "en": "We build the apps, systems and websites your business needs."
         },
         "points": [
-          { "ar": "تطبيقات موبايل وويب", "en": "Mobile and web apps" },
-          { "ar": "أنظمة إدارة ولوحات تحكم", "en": "Management systems and dashboards" },
-          { "ar": "تطبيقات الواقع المعزز (AR)", "en": "Augmented reality (AR) apps" }
+          {
+            "ar": "تطبيقات موبايل وويب",
+            "en": "Mobile and web apps"
+          },
+          {
+            "ar": "أنظمة إدارة ولوحات تحكم",
+            "en": "Management systems and dashboards"
+          },
+          {
+            "ar": "تطبيقات الواقع المعزز (AR)",
+            "en": "Augmented reality (AR) apps"
+          }
         ]
       }
     ]
   },
   "why": {
-    "title": { "ar": "ليش منز؟", "en": "Why Menz" },
+    "title": {
+      "ar": "ليش منز؟",
+      "en": "Why Menz"
+    },
     "items": [
       {
-        "title": { "ar": "فريق واحد لكل شي", "en": "One team for everything" },
+        "title": {
+          "ar": "فريق واحد لكل شي",
+          "en": "One team for everything"
+        },
         "desc": {
           "ar": "التصوير والبث والشاشات والصوت عند جهة وحدة، فما تحتاج تنسّق بين أكثر من شركة.",
           "en": "Recording, streaming, screens and sound from one provider, so you don't juggle several vendors."
         }
       },
       {
-        "title": { "ar": "نجرّب قبل الفعالية", "en": "We test before the event" },
+        "title": {
+          "ar": "نجرّب قبل الفعالية",
+          "en": "We test before the event"
+        },
         "desc": {
           "ar": "نسوي تجربة تقنية كاملة بالقاعة حتى ما تنفاجئ بشي يوم الفعالية.",
           "en": "We run a full technical check in the hall so nothing surprises you on the day."
         }
       },
       {
-        "title": { "ar": "نشتغل بلغتك", "en": "We speak your language" },
+        "title": {
+          "ar": "نشتغل بلغتك",
+          "en": "We speak your language"
+        },
         "desc": {
           "ar": "نفهم طبيعة الفعاليات بالعراق، ونشتغل بالعربي والإنكليزي.",
           "en": "We know how events run in Iraq and work in both Arabic and English."
         }
       },
       {
-        "title": { "ar": "سعر واضح", "en": "A clear quote" },
+        "title": {
+          "ar": "سعر واضح",
+          "en": "A clear quote"
+        },
         "desc": {
           "ar": "عرض سعر مفصّل قبل ما نبدي، بدون مفاجآت.",
           "en": "A detailed quote before we start, with no surprises."
@@ -180,31 +324,46 @@
     ]
   },
   "process": {
-    "title": { "ar": "شلون نشتغل", "en": "How it works" },
+    "title": {
+      "ar": "شلون نشتغل",
+      "en": "How it works"
+    },
     "steps": [
       {
-        "title": { "ar": "تكلمنا", "en": "Tell us" },
+        "title": {
+          "ar": "تكلمنا",
+          "en": "Tell us"
+        },
         "desc": {
           "ar": "ابعثلنا على واتساب نوع الفعالية والتاريخ والمكان.",
           "en": "Send us the event type, date and place on WhatsApp."
         }
       },
       {
-        "title": { "ar": "نخطط وياك", "en": "We plan with you" },
+        "title": {
+          "ar": "نخطط وياك",
+          "en": "We plan with you"
+        },
         "desc": {
           "ar": "نحدد المعدات والفريق المناسب، ونعطيك عرض سعر واضح.",
           "en": "We choose the right equipment and crew and send a clear quote."
         }
       },
       {
-        "title": { "ar": "نجهّز ونجرّب", "en": "We set up and test" },
+        "title": {
+          "ar": "نجهّز ونجرّب",
+          "en": "We set up and test"
+        },
         "desc": {
           "ar": "نركّب المعدات ونسوي تجربة قبل ما يوصل الضيوف.",
           "en": "We install the equipment and run a test before guests arrive."
         }
       },
       {
-        "title": { "ar": "نشغّل الفعالية", "en": "We run the event" },
+        "title": {
+          "ar": "نشغّل الفعالية",
+          "en": "We run the event"
+        },
         "desc": {
           "ar": "فريقنا يكون موجود طول الوقت، ونسلّمك الملفات بعدها.",
           "en": "Our crew stays on site throughout and delivers your files afterwards."
@@ -213,47 +372,74 @@
     ]
   },
   "gallery": {
-    "title": { "ar": "أعمالنا", "en": "Our work" },
-    "intro": { "ar": "لقطات من فعاليات اشتغلنا بيها.", "en": "Moments from events we've worked on." },
+    "title": {
+      "ar": "أعمالنا",
+      "en": "Our work"
+    },
+    "intro": {
+      "ar": "لقطات من فعاليات اشتغلنا بيها.",
+      "en": "Moments from events we've worked on."
+    },
     "items": []
   },
   "clients": {
-    "title": { "ar": "جهات وثقت بينا", "en": "Trusted by" },
+    "title": {
+      "ar": "جهات وثقت بينا",
+      "en": "Trusted by"
+    },
     "items": []
   },
   "faq": {
-    "title": { "ar": "أسئلة تتكرر", "en": "Frequently asked questions" },
+    "title": {
+      "ar": "أسئلة تتكرر",
+      "en": "Frequently asked questions"
+    },
     "items": [
       {
-        "q": { "ar": "شلون أحجز؟", "en": "How do I book?" },
+        "q": {
+          "ar": "شلون أحجز؟",
+          "en": "How do I book?"
+        },
         "a": {
           "ar": "كلمنا على واتساب أو عبّي نموذج الطلب بالموقع، وراح نرد عليك بأسرع وقت.",
           "en": "Message us on WhatsApp or fill in the request form on this page, and we'll reply as soon as we can."
         }
       },
       {
-        "q": { "ar": "قبل شكد لازم أحجز؟", "en": "How early should I book?" },
+        "q": {
+          "ar": "قبل شكد لازم أحجز؟",
+          "en": "How early should I book?"
+        },
         "a": {
           "ar": "كل ما تحجز بدري أحسن حتى نجهز بشكل مرتب. وحتى إذا الوقت ضيق، كلمنا ونشوف شنو نكدر نسوي.",
           "en": "The earlier the better, so we can prepare properly. Even if time is short, contact us and we'll see what we can do."
         }
       },
       {
-        "q": { "ar": "تشتغلون بس داخل بغداد؟", "en": "Do you only work inside Baghdad?" },
+        "q": {
+          "ar": "تشتغلون بس داخل بغداد؟",
+          "en": "Do you only work inside Baghdad?"
+        },
         "a": {
           "ar": "مقرنا بغداد. إذا فعاليتك بمكان ثاني خبرنا بالموقع ونرتب الموضوع.",
           "en": "We're based in Baghdad. If your event is elsewhere, tell us the location and we'll work it out."
         }
       },
       {
-        "q": { "ar": "أكدر أطلب خدمة وحدة بس؟", "en": "Can I order just one service?" },
+        "q": {
+          "ar": "أكدر أطلب خدمة وحدة بس؟",
+          "en": "Can I order just one service?"
+        },
         "a": {
           "ar": "إي، تكدر تطلب بث بس، أو صوت بس، أو باقة كاملة. اللي تحتاجه تسويه.",
           "en": "Yes. You can order only streaming, only sound, or a full package. Whatever you need."
         }
       },
       {
-        "q": { "ar": "شلون يتحدد السعر؟", "en": "How is the price decided?" },
+        "q": {
+          "ar": "شلون يتحدد السعر؟",
+          "en": "How is the price decided?"
+        },
         "a": {
           "ar": "حسب نوع الفعالية ومدتها والمعدات المطلوبة. نعطيك عرض سعر بعد ما تخبرنا بالتفاصيل.",
           "en": "It depends on the event type, its length and the equipment needed. We send a quote once we have the details."
@@ -262,7 +448,10 @@
     ]
   },
   "contact": {
-    "title": { "ar": "خلّينا نجهّز فعاليتك", "en": "Let's set up your event" },
+    "title": {
+      "ar": "خلّينا نجهّز فعاليتك",
+      "en": "Let's set up your event"
+    },
     "intro": {
       "ar": "عبّي التفاصيل ويوصلنا طلبك على واتساب، أو كلمنا مباشرة.",
       "en": "Fill in the details and your request reaches us on WhatsApp, or contact us directly."
